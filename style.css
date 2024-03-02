@@ -1,0 +1,35 @@
+body
+
+{
+
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+.uma
+{
+    color: rgb(221, 25, 156);
+}
+.um
+{
+color: rgb(19, 19, 189);
+
+}
+button
+{
+    color: azure;
+    background-color: green;
+    border-color: aqua;
+    border-radius: 5px;
+}
+
+form fieldset{
+    height: 100%;
+    width: 350px;
+    border-radius: 20px;
+}
+
